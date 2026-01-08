@@ -17,7 +17,7 @@ function splashScreen() {
   background(30);
   fill(255);
   textSize(32);
-  text("Is This Seat Taken?", width / 2, height / 2 - 30);
+  text("Is This Seat Taken ???", width / 2, height / 2 - 30);
 
   textSize(16);
   text("Click to Start", width / 2, height / 2 + 20);
