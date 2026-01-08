@@ -7,7 +7,7 @@ Student Number: 21105035
 ## Description
 
 A simple p5.js sketch created to confirm project setup and GitHub Pages deployment.
-The sketch includes a splash screen inspired by _Is This Seat Taken?_ and a basic
+The sketch includes a splash screen inspired by Is This Seat Taken?\_ and a basic
 interactive seat that responds to hover input.
 
 ## Setup and Interaction Instructions
